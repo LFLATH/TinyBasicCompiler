@@ -1,2 +1,2 @@
-# TinyBasicCompiler
-A compiler for TinyBasic written in Go
+# TinyBasicInterpreter
+An interpreter for TinyBasic written in Go
